@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 528b24c6-df44-6e33-c6db-3354e9fda743
 resourcetype: Document
 title: Quiz 1 - Solutions - Spring 2008
 uid: 9d268122-293f-688c-f3ce-9c67001290b4

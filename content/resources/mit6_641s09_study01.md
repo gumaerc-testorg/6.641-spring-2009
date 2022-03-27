@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 528b24c6-df44-6e33-c6db-3354e9fda743
 resourcetype: Document
 title: 'Formula Sheet #1'
 uid: 9e74b72f-077e-ccdf-d3c5-4fa797434ded

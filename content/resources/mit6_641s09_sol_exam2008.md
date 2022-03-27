@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 528b24c6-df44-6e33-c6db-3354e9fda743
 resourcetype: Document
 title: Final - Solutions - Spring 2008
 uid: 8e755401-30ef-cce6-21f4-838910971a96

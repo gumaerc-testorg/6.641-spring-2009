@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 528b24c6-df44-6e33-c6db-3354e9fda743
 resourcetype: Document
 title: Formula Sheet - Spring 2009
 uid: 63d0b79d-feb1-f184-cd00-1ccd0727f6be
