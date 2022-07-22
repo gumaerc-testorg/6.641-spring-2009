@@ -1,10 +1,18 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, exams,
+  and problem sets for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 95a936b6-6591-0d83-9caf-e1164a6ff80d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-The numbering L1, L2, and so forth in the Topics corresponds to the numbering of the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+The numbering L1, L2, and so forth in the Topics corresponds to the numbering of the {{% resource_link dda578c4-8b9d-5d90-3bed-c932f0409540 "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

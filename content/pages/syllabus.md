@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, texts, homework assignments, exams, demonstrations,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4dd08286-02a1-13bc-9dad-c84194044910
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Course Introduction by Prof. Markus Zahn
@@ -26,7 +35,7 @@ The prerequisite for this course is _6.013 Electromagnetics and Applications_.
 Texts
 -----
 
-Most of the course material will be contained in the lecture notes. The first two texts are required. The third text is not required but may be useful as a supplementary text. Links for the three textbooks may be found in the [textbooks]({{< baseurl >}}/pages/textbooks) section.
+Most of the course material will be contained in the lecture notes. The first two texts are required. The third text is not required but may be useful as a supplementary text. Links for the three textbooks may be found in the {{% resource_link c100f648-e38f-2ab0-f906-954bbb16fc2d "textbooks" %}} section.
 
 ### Required
 
@@ -51,7 +60,7 @@ There will be a two-hour midterm and a three-hour final examination. A formula s
 Demonstrations
 --------------
 
-The course will have many physical demonstrations that are shown in lectures. For further study, many of the demonstrations are available in [Supplemental Resources](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/index.htm).
+The course will have many physical demonstrations that are shown in lectures. For further study, many of the demonstrations are available in [Supplemental Resources](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).
 
 Grading
 -------
