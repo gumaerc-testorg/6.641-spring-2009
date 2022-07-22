@@ -8,6 +8,7 @@ file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/9e74b7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Formula sheet on differential operators in Cartesian, cylindrical, and spherical coordinates, geometric relations between coordinates and unit vectors in Cartesian, cylindrical, and spherical coordinate systems, vector identities, integral theorems, Maxwell's equations, and physical constants.
-
