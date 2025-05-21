@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on electromagnetic fields, forces, and motion.
-file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/0ae4be8d04e80a5ac3b2a8ed84ccdd67_MIT6_641s09_sol_pset02.pdf
+file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/0ae4be8d04e80a5ac3b2a8ed84ccdd67_MIT6_641s09_sol_pset02.pdf
 file_size: 396045
 file_type: application/pdf
 learning_resource_types:
