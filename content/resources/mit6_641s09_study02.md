@@ -2,7 +2,7 @@
 content_type: resource
 description: Formula sheet on differential operators in Cartesian, cylindrical, and
   spherical coordinates.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/34b2022a13798d7d782d30f8454f5520_MIT6_641s09_study02.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/34b2022a13798d7d782d30f8454f5520_MIT6_641s09_study02.pdf
 file_size: 139152
 file_type: application/pdf
 learning_resource_types:
